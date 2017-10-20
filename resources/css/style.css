@@ -93,6 +93,13 @@ footer {
   width: 1000px;
   padding-top: 100px;
 }
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  width: 1000px;
+  /*padding-top: 50px;*/
+}
 .catalog {
   display: flex;
   flex-direction: row;
