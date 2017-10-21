@@ -86,6 +86,7 @@ header img {
 .product span {
   display: block;
   padding-top: 10px;
+  font-weight: bold;
 }
 .catalog {
   display: flex;
